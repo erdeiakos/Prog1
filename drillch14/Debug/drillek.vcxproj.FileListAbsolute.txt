@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\drillek\Debug\drillek.exe
+C:\Users\User\source\repos\drillek\Debug\drillek.pdb
